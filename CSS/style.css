@@ -18,5 +18,17 @@ body {
 a {
     text-decoration: none;
     color: #333;
-    
+}
+
+a:hover {
+    color: rebeccapurple;
+}
+
+a:active {
+    color: red;
+}
+
+nav ul.main-menu {
+    list-style: none;
+    padding: 0;
 }
